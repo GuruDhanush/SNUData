@@ -15,8 +15,7 @@
                 <Button x:Name="SubmitButton" Text="Submit" Clicked="SubmitButton_Clicked"/>
             </StackLayout>
             
-            
-            <WebView x:Name="Data_webView" HeightRequest="700" WidthRequest="300" />
+      <WebView x:Name="Data_webView" HeightRequest="700" WidthRequest="300" />
         </StackLayout>
 	</ContentPage.Content>
 </ContentPage>
